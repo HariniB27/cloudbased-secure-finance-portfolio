@@ -1,0 +1,10 @@
+total_return
+volatility_proxy
+momentum_proxy
+drawdown_proxy
+risk_score
+equity_allocation
+debt_allocation
+commodity_allocation
+cash_allocation
+concentration_hhi
